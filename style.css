@@ -1,0 +1,42 @@
+.heading
+{
+    font-size: 24px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgb(156, 156, 158);
+}
+.heading_div
+{
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+}
+.heading_div2
+{
+    font-size: 18px;
+}
+.result_ara_tag
+{
+    box-shadow: 5px 5px 5px rgb(202, 202, 202);
+    font-size: 20px;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(212, 212, 212);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(69, 72, 75);
+    line-height: 3;
+    text-align: center;
+}
+canvas
+{
+    border: 5px solid rgb(231, 231, 235);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(104, 104, 105);
+    margin-top: 150px;
+}
